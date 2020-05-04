@@ -33,7 +33,7 @@ body {
 .cell:first-child,
 .cell:nth-child(2),
 .cell:nth-child(3) {
-    border-top: none;
+    border-top: dotted;
 }
 
 .cell:nth-child(3n +1) {
